@@ -2,9 +2,9 @@ function Nombre(){
 
     document.getElementById("nombre-usuario")
 
-    var changedname = 0
-    var fem = ("a")
-    var nombre = 0
+    var changedname = Alexa
+    var fem = a
+    var nombre = Alex
 
     
 
@@ -15,7 +15,7 @@ function Nombre(){
 
 
 
-   
+   document.getElementById("nombre-usuario").value = true;
 
 
 
@@ -23,12 +23,18 @@ function Nombre(){
 
 
 
-    //  if (document.getElementById("nombre-usuario").value = true) {
+      if (document.getElementById("nombre-usuario").value = "Alex") {
+        nombre = Alex
 
-        
-    // } else {
-        
-    // }
+        changedname = Alexa
+
+
+        document.getElementById("nombre-usuario").value = "Alexa"
+     } 
+     else{
+        changedname = Alexa
+     }
+
 
     
 
