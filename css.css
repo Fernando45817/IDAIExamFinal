@@ -26,5 +26,8 @@ button{
 img{
     justify-content: center;
 }
+footer{
+    justify-self: center;
+}
 
 
