@@ -1,0 +1,27 @@
+.perfil-card{
+    justify-self: center;
+    background-color: aquamarine;
+    padding-top: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    
+}
+h2{
+    justify-self: center;
+}
+header{
+    justify-self: center;
+}
+body{
+    background-color: beige;
+}
+button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    justify-content: center;
+}
+
+
